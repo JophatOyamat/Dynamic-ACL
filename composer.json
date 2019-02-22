@@ -1,0 +1,13 @@
+{
+    "name": "vendor/mugen-acl",
+    "description": "Dynamic Access Control Level",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mugen Spiegel",
+            "email": "tamay06131993@gmail.com"
+        }
+    ],
+    "require": {}
+}
